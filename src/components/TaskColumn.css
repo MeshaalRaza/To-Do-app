@@ -1,0 +1,10 @@
+.taskcolumnheading
+{
+    display:flex;
+    justify-content:center;
+} 
+.taskcolumnicon
+{
+    width:30px;
+    margin-right:5px;
+}
